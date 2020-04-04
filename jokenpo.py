@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 import random
 from colorama import Fore, Style
+from datetime import datetime
+from locale import setlocale, LC_ALL            #Bibliotecas para passar datas para portugues
+
+
+#Passando a data para portugues
+setlocale(LC_ALL, 'pt_BR.utf-8')
 
 
 def valida (valor):
@@ -15,7 +21,9 @@ def valida (valor):
 
 def arquivo(placar):
     with open('Placar.txt', 'a+') as file:          # Adicionando linhas ao arquivo, o a+ manda o cursor para o final do arquivo
-        file.write(f'Rodada: {placar[0]}\n')
+        data = datetime.now()
+        data_atual = data.strftime('%d/%m/%Y %H:%M:%S')
+        file.write(f'Rodada: {placar[0]} - {data_atual}\n')
         file.write(f'Vencedor: {placar[4]}\n')
         file.write(f'Empate: {placar[1]} | ')
         file.write(f'Computador: {placar[2]} | ')

@@ -14,3 +14,79 @@ Rodada: 2
 Vencedor: empate
 Empate: 2 | Computador: 1 | Usuário: 0 
  -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 0 - 04/04/2020 01:15:57
+Vencedor: empate
+Empate: 1 | Computador: 0 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 1 - 04/04/2020 01:15:57
+Vencedor: computador
+Empate: 1 | Computador: 1 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:15:57
+Vencedor: empate
+Empate: 2 | Computador: 1 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 3 - 04/04/2020 01:15:57
+Vencedor: voce
+Empate: 2 | Computador: 1 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 4 - 04/04/2020 01:15:57
+Vencedor: empate
+Empate: 3 | Computador: 1 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 4 - 04/04/2020 01:15:57
+Vencedor: empate
+Empate: 3 | Computador: 1 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 0 - 04/04/2020 01:16:47
+Vencedor: voce
+Empate: 0 | Computador: 0 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 1 - 04/04/2020 01:16:47
+Vencedor: empate
+Empate: 1 | Computador: 0 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:16:47
+Vencedor: voce
+Empate: 1 | Computador: 0 | Usuário: 2 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:16:47
+Vencedor: voce
+Empate: 1 | Computador: 0 | Usuário: 2 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 0 - 04/04/2020 01:17:08
+Vencedor: computador
+Empate: 0 | Computador: 1 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 1 - 04/04/2020 01:17:08
+Vencedor: empate
+Empate: 1 | Computador: 1 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:17:08
+Vencedor: voce
+Empate: 1 | Computador: 1 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 3 - 04/04/2020 01:17:08
+Vencedor: voce
+Empate: 1 | Computador: 1 | Usuário: 2 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 3 - 04/04/2020 01:17:08
+Vencedor: voce
+Empate: 1 | Computador: 1 | Usuário: 2 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 0 - 04/04/2020 01:18:09
+Vencedor: empate
+Empate: 1 | Computador: 0 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 1 - 04/04/2020 01:18:12
+Vencedor: empate
+Empate: 2 | Computador: 0 | Usuário: 0 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:18:15
+Vencedor: voce
+Empate: 2 | Computador: 0 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Rodada: 2 - 04/04/2020 01:18:22
+Vencedor: voce
+Empate: 2 | Computador: 0 | Usuário: 1 
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
