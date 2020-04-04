@@ -72,4 +72,4 @@ while x:
 
         arquivo(placar)
         rodada += 1
-        print(placar)
+
